@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=tin": { "model": "mysteriousisland:ore_end_tin" },
+        "variant=copper": { "model": "mysteriousisland:ore_end_copper" }
+    }
+}

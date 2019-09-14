@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "III",
+        "III"
+    ],
+    "key":
+    {
+        "I":
+        {
+            "item": "mysteriousisland:ingot_copper"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mysteriousisland:chestplate_copper",
+        "count": 1
+    }
+}
